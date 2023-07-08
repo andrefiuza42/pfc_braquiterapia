@@ -9,7 +9,7 @@
 #define deslocamentoPorVoltaY 0.3
 #define passosPorVolta 200
 
-#define erroMaximoPermitido 0.5
+#define erroMaximoPermitido 0.25
 
 #define janelaDoFiltro 20
 
