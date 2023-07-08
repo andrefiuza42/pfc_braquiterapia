@@ -1,6 +1,7 @@
-// Sketch para posicionar o atuador do eixo horizontal em cinco pontos ao longo do eixo, utilizando um cálculo aproximado de passos e feedback do sensor HC-SR04
+// Sketch para posicionar um protótipo de agulha de braquiterapia em cinco pontos ao longo dos eixos x e y, utilizando um cálculo aproximado de passos e feedback de sensores de distância
 // Autor: André Fiúza
-// Data: 15-06-2023
+// Universidade Federal de Minas Gerais - UFMG. 
+// Data da versão: 15-06-2023
 
 #include <HCSR04.h>
 #include "Adafruit_VL53L0X.h"
